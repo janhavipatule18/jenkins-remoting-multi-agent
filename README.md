@@ -38,7 +38,8 @@ The project showcases how Jenkins Remoting improves scalability, workload distri
 
 The following diagram illustrates the Jenkins Remoting architecture used in this project.
 
-![Architecture](architecture/architecture.png)
+<img width="1402" height="1122" alt="archi diag" src="https://github.com/user-attachments/assets/f4c764a3-501b-4d83-9db4-15f180a66a4b" />
+
 
 ---
 
@@ -76,25 +77,29 @@ jenkins-remoting-multi-agent/
 
 ### Jenkins Dashboard
 
-![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png)
+!<img width="970" height="1280" alt="jenkins-dashboard" src="https://github.com/user-attachments/assets/4a155e4d-34b6-49fd-994e-0b367d18327b" />
+
 
 ---
 
 ### Connected Remote Agents
 
-![Remote Agents](screenshots/02-remote-agents.png)
+<img width="720" height="1280" alt="remote-agents" src="https://github.com/user-attachments/assets/652d3eae-f72b-4c7e-a5e0-d297726c1a39" />
+
 
 ---
 
 ### Pipeline Execution
 
-![Pipeline Execution](screenshots/03-pipeline-execution.png)
+<img width="720" height="1280" alt="pipeline-execution" src="https://github.com/user-attachments/assets/488d9972-424e-4c6c-89b8-d6254a5c2526" />
+
 
 ---
 
 ### Console Output
 
-![Console Output](screenshots/04-console-output.png)
+<img width="720" height="1280" alt="console-output" src="https://github.com/user-attachments/assets/40b8ca13-a016-41f1-ae53-9b006842ab48" />
+
 
 ---
 
